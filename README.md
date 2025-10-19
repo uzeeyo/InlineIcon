@@ -39,7 +39,8 @@ If there’s enough interest, I may release a paid version with additional featu
 
 ## ⚠️ Limitations
 
-- Icon definitions are **not saved** between sessions — they’ll need to be recreated when InDesign restarts  
+- Icon definitions are **not saved** between sessions — they’ll need to be recreated when InDesign restarts
+- Indesign's API doesn't provide a way to read a text frame's content if the content is overset so make sure your frame is large enough
 - Currently supports **SVG files only**  
 - Requires **Adobe InDesign 20.5.0** (or newer) and likely **Creative Cloud** for installation
 
